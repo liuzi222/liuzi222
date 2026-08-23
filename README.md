@@ -1,48 +1,49 @@
-# 你好，我是 liuzi222 👋
+# Hi, I'm liuzi222 👋
 
->  · 路径规划 · 移动机器人导航
+> Graduate student focused on path planning and mobile robot navigation.
 
 [![GitHub followers](https://img.shields.io/github/followers/liuzi222?style=flat&logo=github&label=Followers)](https://github.com/liuzi222)
 [![Profile views](https://komarev.com/ghpvc/?username=liuzi222&style=flat&color=blue)](https://github.com/liuzi222)
 
-## 关于我
+## About Me
 
-- 🔭 研究方向：路径规划与移动机器人导航
-- 🌱 正在学习：机器人感知、规划与控制
+- 🔭 Research focus: path planning and mobile robot navigation
+- 🌱 Currently learning: robot perception, planning, and control
 
-
-## 技术栈
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat&logo=ros&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-<!-- 只保留你实际使用的技术徽章；添加新技术时复制上一行即可。 -->
+<!-- Keep only the badges for tools you actually use. Copy a line to add another one. -->
 
-## 精选项目
+## Featured Projects
 
-<!-- 添加项目：复制下面的项目块，替换名称、简介、链接和技术标签。 -->
+I don't have public projects yet, but this section will be updated as my work develops.
 
-目前暂无公开项目，后续会在这里持续更新。
-
-<!-- 添加项目：复制下面的项目块，替换名称、简介、链接和技术标签。 -->
+<!-- Add a project by copying the block below and replacing the details. -->
 
 <!--
-### [项目名称](https://github.com/liuzi222/项目仓库)
+### [Project Name](https://github.com/liuzi222/repository-name)
 
-一句话说明项目解决什么问题，以及你的主要贡献。
+One sentence explaining the problem the project solves and your main contribution.
 
-`Python` `ROS` `技术 3` · [查看仓库](https://github.com/liuzi222/项目仓库)
+`Python` `ROS` `C++` · [View repository](https://github.com/liuzi222/repository-name)
 -->
 
-## GitHub 数据
+## GitHub Stats
 
 <p>
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=liuzi222&show_icons=true&hide_border=true&theme=default" alt="GitHub statistics" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liuzi222&layout=compact&hide_border=true&theme=default" alt="Top languages" />
 </p>
 
+## Contact
 
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<sub>感谢访问我的主页。最近更新：2026-08</sub>
+<!-- Remove any contact method you do not use. -->
+
+<sub>Thanks for visiting my profile. Last updated: 2026-08</sub>
