@@ -1,7 +1,5 @@
 # Hi, I'm liuzi222 👋
 
-> Graduate student focused on path planning and mobile robot navigation.
-
 [![GitHub followers](https://img.shields.io/github/followers/liuzi222?style=flat&logo=github&label=Followers)](https://github.com/liuzi222)
 [![Profile views](https://komarev.com/ghpvc/?username=liuzi222&style=flat&color=blue)](https://github.com/liuzi222)
 
